@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Ruta de Litigio Estratégico — Caso Juan Eviel Cedano Guarín</title>
+<title>Litigio Estratégico — Caso Juan Eviel Cedano Guarín (Pasos 1 a 5)</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -244,7 +244,7 @@
     <div class="masthead-text">
       <div class="eyebrow">CLÍNICA JURÍDICA · FACULTAD DE DERECHO · FUNDACIÓN UNIVERSITARIA DE POPAYÁN</div>
       <h1>Ruta de litigio estratégico — Caso Juan Eviel Cedano Guarín</h1>
-      <p>Santander de Quilichao, Cauca · Materia de Litigio Estratégico · Expediente en curso, 2026</p>
+      <p>Santander de Quilichao, Cauca · Materia de Litigio Estratégico · Avance: Pasos 1 a 5 · 2026</p>
     </div>
   </div>
 </header>
@@ -256,12 +256,8 @@
       <li><button data-target="inicio" class="active"><span class="num">i</span> Inicio del caso</button></li>
       <li><button data-target="equipo"><span class="num">e</span> Equipo</button></li>
     </ul>
-    <div class="group-label">Los diez pasos</div>
+    <div class="group-label">Pasos del litigio</div>
     <ul id="steps-nav"></ul>
-    <div class="group-label">Referencia</div>
-    <ul>
-      <li><button data-target="practicas"><span class="num">★</span> Buenas prácticas</button></li>
-    </ul>
   </nav>
 
   <main>
@@ -317,12 +313,12 @@
         <div class="team-card">
           <div class="role">Litigantes</div>
           <h5>Estudiantes de Litigio Estratégico</h5>
-          <p>Tatiana [apellido] y [nombre] [apellido] — redacción de la tutela, derechos de petición, recolección probatoria y seguimiento del caso.</p>
+          <p>Asly V. Lucumí, Daniela Peña y Gina Rojas — redacción de la tutela, derechos de petición, recolección probatoria y seguimiento del caso.</p>
         </div>
         <div class="team-card">
           <div class="role">Supervisión</div>
           <h5>Docente de Litigio Estratégico</h5>
-          <p>Revisión jurídica de los escritos, validación de la estrategia y respaldo institucional ante la Facultad de Derecho.</p>
+          <p>Juan Camilo Arias — revisión jurídica de los escritos, validación de la estrategia y respaldo institucional ante la Facultad de Derecho.</p>
         </div>
         <div class="team-card">
           <div class="role">Apoyo institucional</div>
@@ -589,238 +585,11 @@
 
       <div class="footer-nav">
         <button data-target="paso4">← Paso 4</button>
-        <button class="next" data-target="paso6">Paso 6: Recolección de pruebas →</button>
+        <span></span>
       </div>
     </section>
 
     <!-- ===================== PASO 6 ===================== -->
-    <section class="panel" id="paso6">
-      <div class="kicker"><span class="num">06</span><span class="label">Litigio estratégico · Paso 6</span></div>
-      <h2>Recolección de pruebas</h2>
-
-      <h3>Pruebas documentales</h3>
-      <ul>
-        <li>Cédulas de Juan Eviel (1.110.488.334) y de Viviana.</li>
-        <li>Carnet de afiliación a Famisanar.</li>
-        <li>Fórmulas médicas de medicamentos y de pañales (con la cantidad autorizada, para contrastar con la cantidad reducida que entrega la EPS).</li>
-        <li>Informes médicos con los diagnósticos (retraso global severo, epilepsia, trastorno bipolar).</li>
-        <li>Certificado de discapacidad, si se tiene.</li>
-        <li>Copia de la tutela del 22 de enero de 2013 (Juzgado Segundo Penal del Circuito Especializado de Ibagué).</li>
-        <li>Certificado del Registro Único de Víctimas (RUV).</li>
-        <li>Pruebas de desplazamiento forzado y de las agresiones físicas contra Juan Eviel.</li>
-        <li>Recibos de arriendo y comprobantes de costos de transporte a Cali o Jamundí.</li>
-        <li>Fotografías e informes médicos de las lesiones en la piel causadas por la insuficiencia de pañales.</li>
-        <li>Respuestas escritas de Famisanar, si las hay.</li>
-        <li>Autorización de Viviana para trabajar el caso en el proyecto de litigio estratégico de la FUP.</li>
-      </ul>
-
-      <h3>Pruebas testimoniales</h3>
-      <ul>
-        <li>Declaración de Viviana sobre el cuidado, los costos, los despidos, los desplazamientos y las agresiones.</li>
-        <li>Declaraciones de vecinos o conocidos, de ser necesario.</li>
-        <li>Informe de trabajo social, si se logra gestionar con la Alcaldía o el ICBF.</li>
-      </ul>
-
-      <h3>Pruebas técnicas</h3>
-      <ul>
-        <li>Concepto médico sobre la necesidad del medicamento no genérico.</li>
-        <li>Concepto de dermatología sobre las lesiones por insuficiencia de pañales.</li>
-        <li>Concepto de neurología sobre el riesgo de ataques sin medicación adecuada.</li>
-        <li>Concepto de psiquiatría o psicología sobre el trastorno bipolar y la necesidad de continuidad terapéutica.</li>
-      </ul>
-
-      <div class="footer-nav">
-        <button data-target="paso5">← Paso 5</button>
-        <button class="next" data-target="paso7">Paso 7: Argumentos jurídicos →</button>
-      </div>
-    </section>
-
-    <!-- ===================== PASO 7 ===================== -->
-    <section class="panel" id="paso7">
-      <div class="kicker"><span class="num">07</span><span class="label">Litigio estratégico · Paso 7</span></div>
-      <h2>Desarrollar los argumentos jurídicos</h2>
-
-      <h3>1. Vulneración del derecho fundamental a la salud</h3>
-      <p><strong>Fundamento:</strong> artículo 49 C.P. y Ley 1751 de 2015, que exige un servicio oportuno, continuo y de calidad. La Corte Constitucional ha reiterado que las EPS no pueden imponer barreras administrativas que impidan el acceso a lo formulado por el médico tratante.</p>
-
-      <h3>2. Derecho a los medicamentos formulados cuando el genérico causa daño</h3>
-      <p><strong>Fundamento:</strong> Ley 1751 de 2015, art. 6. Cuando el genérico agrava los ataques epilépticos o el deterioro cognitivo, la entrega del medicamento específico no es una preferencia: es una necesidad médica exigible.</p>
-
-      <h3>3. Derecho a recibir la cantidad de pañales médicamente requerida</h3>
-      <p><strong>Fundamento jurisprudencial:</strong> la Corte Constitucional ha ordenado reiteradamente el suministro de pañales a personas con discapacidad que los requieren por su condición. Juan Eviel tiene incontinencia severa certificada médicamente; la reducción unilateral de la cantidad entregada —sin concepto médico que la respalde— le ha causado quemaduras y lesiones en la piel, lo que agrava directamente su derecho a la integridad física.</p>
-
-      <h3>4. Derecho a la atención médica domiciliaria</h3>
-      <p><strong>Fundamento:</strong> Ley 1618 de 2013, art. 11, que garantiza la habilitación y rehabilitación de personas con discapacidad. La Corte ha ordenado la prestación domiciliaria de servicios médicos cuando existe concepto técnico del médico tratante y la persona no puede trasladarse con facilidad. Juan Eviel tiene discapacidad severa y presenta ataques epilépticos; la atención médica domiciliaria —no solo las terapias— fue suspendida sin justificación y debe restablecerse, dado que su madre no puede asumir los traslados a Cali o Jamundí.</p>
-
-      <h3>5. Prohibición de barreras de acceso geográficas</h3>
-      <p><strong>Fundamento:</strong> Ley 1751 de 2015, art. 6. Exigir un desplazamiento de más de tres horas a Cali o Jamundí constituye una barrera de acceso injustificada, agravada por la condición de víctimas de desplazamiento forzado y la vulnerabilidad económica de la familia. Famisanar debe entregar los insumos en Santander de Quilichao o cubrir el transporte.</p>
-
-      <h3>6. Derechos de las víctimas del conflicto armado</h3>
-      <p><strong>Fundamento:</strong> Ley 1448 de 2011, arts. 25 a 27, sobre reparación integral, incluida la rehabilitación psicosocial. Juan Eviel y Viviana, víctimas de desplazamiento forzado en dos ocasiones y de agresiones físicas, tienen derecho a atención psicosocial inmediata y a un enfoque diferencial por discapacidad, que la Oficina de Víctimas ha omitido activar.</p>
-
-      <h3>7. Enfoque diferencial por discapacidad y condición de víctima</h3>
-      <p><strong>Fundamento:</strong> Ley 1618 de 2013, Ley 1448 de 2011 y la línea jurisprudencial sobre desplazamiento forzado (Sentencia T-025 de 2004). Juan Eviel es sujeto de especial protección constitucional por su discapacidad severa, su condición de víctima y su vulnerabilidad económica.</p>
-
-      <h3>8. Mínimo vital y vida digna</h3>
-      <p><strong>Fundamento:</strong> arts. 1, 11 y 13 C.P. Viviana no puede sostener un empleo estable por la carga de cuidado y solo recibe Renta Ciudadana por su hija menor; no puede costear por sí misma pañales, medicamentos ni transporte.</p>
-
-      <h3>9. Precedente de la tutela de 2013</h3>
-      <p>La tutela de enero de 2013 ya amparó los derechos de Juan Eviel, entonces menor de edad, frente a Caprecom EPS. Que la vulneración persista y se agrave años después, ahora frente a Famisanar, evidencia un patrón sistemático de incumplimiento que refuerza la urgencia de una nueva orden judicial.</p>
-
-      <div class="footer-nav">
-        <button data-target="paso6">← Paso 6</button>
-        <button class="next" data-target="paso8">Paso 8: Estrategia de divulgación →</button>
-      </div>
-    </section>
-
-    <!-- ===================== PASO 8 ===================== -->
-    <section class="panel" id="paso8">
-      <div class="kicker"><span class="num">08</span><span class="label">Litigio estratégico · Paso 8</span></div>
-      <h2>Construir la estrategia de divulgación</h2>
-
-      <h3>Objetivos</h3>
-      <ul>
-        <li>Visibilizar la situación de las víctimas con discapacidad en el norte del Cauca.</li>
-        <li>Generar presión legítima para el cumplimiento del fallo.</li>
-        <li>Dejar un precedente útil para casos similares.</li>
-        <li>Incidir en política pública municipal.</li>
-      </ul>
-
-      <h3>Audiencias</h3>
-      <p>Medios comunitarios y regionales (emisoras, El Liberal, El País), la comunidad de Santander de Quilichao, operadores jurídicos, tomadores de decisión (Alcaldía, Concejo, Secretaría de Salud) y la comunidad académica.</p>
-
-      <h3>Canales</h3>
-      <div class="grid-2">
-        <div class="card"><h5>Tradicionales</h5><p>Rueda de prensa tras el fallo, entrevistas en emisoras comunitarias, notas de prensa regionales, boletín a Defensoría y Procuraduría.</p></div>
-        <div class="card"><h5>Digitales</h5><p>Redes de la FUP, campaña con hashtags, un video breve con Viviana (protegiendo la identidad si es necesario) y una infografía de la ruta Santander–Jamundí.</p></div>
-        <div class="card"><h5>Académicos</h5><p>Publicación en revistas jurídicas, socialización en seminarios de litigio estratégico y réplica en otras clínicas jurídicas.</p></div>
-        <div class="card"><h5>Mensajes clave</h5><p>El acceso a la salud no puede depender de un viaje de tres horas; las EPS no pueden suspender la atención domiciliaria sin justificación médica.</p></div>
-      </div>
-
-      <h3>Precauciones</h3>
-      <p>Proteger la identidad de Juan Eviel y Viviana, evitar narrativas sensacionalistas, centrar el mensaje en derechos y no mencionar en documentos públicos a los grupos armados involucrados.</p>
-
-      <div class="footer-nav">
-        <button data-target="paso7">← Paso 7</button>
-        <button class="next" data-target="paso9">Paso 9: Garantizar el cumplimiento →</button>
-      </div>
-    </section>
-
-    <!-- ===================== PASO 9 ===================== -->
-    <section class="panel" id="paso9">
-      <div class="kicker"><span class="num">09</span><span class="label">Litigio estratégico · Paso 9</span></div>
-      <h2>Garantizar que la victoria sea efectiva</h2>
-
-      <h3>Mecanismos de exigibilidad</h3>
-      <ol>
-        <li><strong>Incidente de desacato</strong> si Famisanar no cumple lo ordenado.</li>
-        <li><strong>Queja ante la SuperSalud</strong> para vigilancia administrativa.</li>
-        <li><strong>Acción de cumplimiento</strong> si hay omisión de las Secretarías o de la Oficina de Víctimas.</li>
-        <li><strong>Denuncia ante la Procuraduría</strong> por responsabilidad disciplinaria.</li>
-        <li><strong>Tutela de seguimiento</strong> si el incumplimiento es grave y persistente.</li>
-      </ol>
-
-      <h3>Indicadores de éxito</h3>
-      <table>
-        <tr><th>Indicador</th><th>Meta</th></tr>
-        <tr><td>Entrega de medicamentos formulados</td><td>100 % oportuna</td></tr>
-        <tr><td>Cantidad correcta de pañales según fórmula</td><td>100 % de entrega</td></tr>
-        <tr><td>Atención médica domiciliaria restablecida</td><td>Activa en 30 días</td></tr>
-        <tr><td>Atención psicosocial para Juan Eviel y Viviana</td><td>Primera cita en 30 días</td></tr>
-        <tr><td>Gasto de bolsillo en transporte</td><td>Cero</td></tr>
-      </table>
-
-      <h3>Plan de contingencia</h3>
-      <div class="timeline">
-        <div class="step"><h5>30 días</h5><p>Derecho de petición a Famisanar y a la Secretaría de Salud exigiendo explicación.</p></div>
-        <div class="step"><h5>60 días</h5><p>Queja formal ante SuperSalud y Procuraduría.</p></div>
-        <div class="step"><h5>90 días</h5><p>Incidente de desacato ante el juez de tutela.</p></div>
-        <div class="step"><h5>Incumplimiento persistente</h5><p>Nueva tutela o acción de cumplimiento.</p></div>
-      </div>
-
-      <div class="footer-nav">
-        <button data-target="paso8">← Paso 8</button>
-        <button class="next" data-target="paso10">Paso 10: Aprender y reformular →</button>
-      </div>
-    </section>
-
-    <!-- ===================== PASO 10 ===================== -->
-    <section class="panel" id="paso10">
-      <div class="kicker"><span class="num">10</span><span class="label">Litigio estratégico · Paso 10</span></div>
-      <h2>Aprender y reformular</h2>
-
-      <h3>Preguntas para la evaluación final</h3>
-      <ul>
-        <li>¿Qué funcionó en la estrategia y qué no?</li>
-        <li>¿Qué pruebas fueron determinantes?</li>
-        <li>¿Cómo vivió Viviana el proceso?</li>
-        <li>¿Se logró el impacto esperado más allá del caso?</li>
-        <li>¿Qué recomendaciones dejamos para futuros casos de la clínica jurídica?</li>
-      </ul>
-
-      <h3>Si el fallo es favorable pero no se cumple</h3>
-      <p>Fortalecer los mecanismos de exigibilidad, vincular más actores y considerar un litigio de impacto colectivo si aparecen más familias en situación similar.</p>
-
-      <h3>Si el fallo es desfavorable</h3>
-      <p>Apelar la decisión, replantear los argumentos jurídicos y complementar con incidencia política ante el Concejo Municipal y la Alcaldía.</p>
-
-      <h3>Si se logra el objetivo</h3>
-      <p>Replicar la estrategia en casos similares, incidir en política pública local, documentar el caso como precedente y construir una red de acompañamiento a víctimas con discapacidad en el norte del Cauca.</p>
-
-      <div class="footer-nav">
-        <button data-target="paso9">← Paso 9</button>
-        <button class="next" data-target="practicas">Buenas prácticas de litigio estratégico →</button>
-      </div>
-    </section>
-
-    <!-- ===================== BUENAS PRÁCTICAS ===================== -->
-    <section class="panel" id="practicas">
-      <div class="kicker"><span class="label">Referencia comparada</span></div>
-      <h2>Buenas prácticas de litigio estratégico, en Colombia y en el mundo</h2>
-      <p class="lede">Esta ruta se apoya en la metodología de diez pasos de Dejusticia y The Legal Agenda, y en la experiencia de litigios estratégicos que han logrado transformar no solo un caso individual, sino la política pública alrededor de él.</p>
-
-      <h3>Experiencias internacionales</h3>
-      <div class="grid-2">
-        <div class="card">
-          <h5>Brown v. Board of Education (Estados Unidos, 1954)</h5>
-          <p>El NAACP Legal Defense Fund construyó, durante años, una serie de casos cuidadosamente escogidos hasta lograr que la Corte Suprema declarara inconstitucional la segregación escolar. Es la referencia clásica de litigio planeado a largo plazo, con más de un caso al servicio de una misma causa.</p>
-        </div>
-        <div class="card">
-          <h5>Minors Oposa v. Factoran (Filipinas, 1993)</h5>
-          <p>Un grupo de menores de edad, en representación de las generaciones futuras, demandó por la deforestación del país. La Corte Suprema filipina reconoció su legitimidad para actuar, abriendo la puerta a la defensa judicial de derechos intergeneracionales.</p>
-        </div>
-      </div>
-
-      <h3>Precedentes colombianos</h3>
-      <div class="grid-2">
-        <div class="card">
-          <h5>Sentencia T-025 de 2004</h5>
-          <p>La Corte Constitucional declaró un estado de cosas inconstitucional frente al desplazamiento forzado, tras encontrar una vulneración masiva y sistemática de derechos. Desde entonces, una Sala de Seguimiento seguirá vigilando el cumplimiento de las órdenes. Es el precedente central para todo litigio de víctimas del conflicto en Colombia.</p>
-        </div>
-        <div class="card">
-          <h5>Sentencia T-760 de 2008</h5>
-          <p>Unificó la jurisprudencia sobre el derecho a la salud y sentó las bases que luego recogió la Ley Estatutaria de Salud (Ley 1751 de 2015), reforzando la prohibición de barreras administrativas de acceso.</p>
-        </div>
-        <div class="card">
-          <h5>Sentencia T-622 de 2016</h5>
-          <p>Reconoció al río Atrato como sujeto de derechos, mostrando cómo el litigio estratégico puede ampliar el catálogo de titulares de protección constitucional más allá de las personas.</p>
-        </div>
-        <div class="card">
-          <h5>Demanda "Futuras Generaciones" (2018)</h5>
-          <p>Un grupo de jóvenes demandó al Estado por la deforestación de la Amazonía; la Corte Suprema de Justicia ordenó medidas estructurales de protección, en un caso construido siguiendo la misma lógica de diez pasos que guía este proyecto.</p>
-        </div>
-      </div>
-
-      <div class="callout">
-        <h4>Lo que estas experiencias enseñan para este caso</h4>
-        <p>Un litigio estratégico bien llevado no se detiene en el fallo: exige seguimiento sostenido, prueba técnica sólida (médica, en este caso), una narrativa que protege la dignidad de la familia y una mirada puesta en el precedente que puede beneficiar a otras personas en la misma situación.</p>
-      </div>
-
-      <div class="footer-nav">
-        <button data-target="paso10">← Paso 10</button>
-        <span></span>
-      </div>
-    </section>
 
   </main>
 </div>
@@ -844,11 +613,6 @@
     {id:'paso3', n:3, label:'Estrategia jurídica'},
     {id:'paso4', n:4, label:'Identificar las partes'},
     {id:'paso5', n:5, label:'Riesgos y recursos'},
-    {id:'paso6', n:6, label:'Recolección de pruebas'},
-    {id:'paso7', n:7, label:'Argumentos jurídicos'},
-    {id:'paso8', n:8, label:'Estrategia de divulgación'},
-    {id:'paso9', n:9, label:'Garantizar el cumplimiento'},
-    {id:'paso10', n:10, label:'Aprender y reformular'},
   ];
   const stepsNav = document.getElementById('steps-nav');
   stepsData.forEach(s=>{
